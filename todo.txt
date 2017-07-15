@@ -1,0 +1,11 @@
+find a place to host the data (google drive)
+
+what kind of data do we want (which columns)
+
+see if all the columns are the same in 2005
+
+link different years together 
+
+start big - neighborhood/zip code level
+
+Add a config file that is ignored in git so we can run it the same way, and just provide our own (system specific) paths
